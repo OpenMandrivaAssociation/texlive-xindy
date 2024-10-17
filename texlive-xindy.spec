@@ -3,7 +3,7 @@ Version:	59894
 Release:	2
 Summary:	A general-purpose index processor
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xindy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xindy
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xindy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xindy.doc.r%{version}.tar.xz
